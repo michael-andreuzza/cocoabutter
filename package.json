@@ -2,21 +2,21 @@
   "name": "cocoa-butter",
   "displayName": "Cocoa Butter",
   "description": "A colorfull, gentle and chocolate dark theme.",
-   "publisher": "wicked-labs",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/michael-andreuzza/cocoabutter"
-    },
-    "bugs": {
-        "url": "https://github.com/michael-andreuzza/cocoabutter",
-        "email": "michael@andreuzza.com"
-    },
-    "icon": "logo/theme-icon.png",
-    "galleryBanner": {
-        "color": "#211d20",
-        "theme": "dark"
-    },
-  "version": "0.0.1",
+  "publisher": "wicked-labs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michael-andreuzza/cocoabutter"
+  },
+  "bugs": {
+    "url": "https://github.com/michael-andreuzza/cocoabutter",
+    "email": "michael@andreuzza.com"
+  },
+  "icon": "logo/theme-icon.png",
+  "galleryBanner": {
+    "color": "#211d20",
+    "theme": "dark"
+  },
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.81.0"
   },

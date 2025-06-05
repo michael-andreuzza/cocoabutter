@@ -1,4 +1,13 @@
+# .vscodeignore
 .vscode/**
 .vscode-test/**
+.vscode
+node_modules
+*.vsix
+*.log
+.git
 .gitignore
+package-lock.json
+README.md
+
 vsc-extension-quickstart.md
