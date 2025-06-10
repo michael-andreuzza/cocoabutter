@@ -18,10 +18,11 @@ See other interfaces at the official website.
 
 - Almond Cream - Light
 - Burnt Chestnut - Dark
-#### Midnight
-![VS Code Marketplace](https://github.com/michael-andreuzza/cocoabutter/blob/master/images/almond-cream.png?raw=true)
-#### Sunset
-![VS Code Marketplace](https://github.com/michael-andreuzza/cocoabutter/blob/master/images/burnt-chestnut.png?raw=true)
+#### Almond Cream
+![VS Code Marketplace](https://github.com/michael-andreuzza/cocoabutter/blob/main/images/almond-cream.png?raw=true)
+
+#### Burnt Chestnut
+![VS Code Marketplace](https://github.com/michael-andreuzza/cocoabutter/blob/main/images/burnt-chestnut.png?raw=true)
 
 ## Personal Settings.
 
