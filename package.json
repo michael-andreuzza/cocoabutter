@@ -1,7 +1,7 @@
 {
   "name": "cocoa-butter",
   "displayName": "Cocoa Butter",
-  "description": "A colorfull, gentle and chocolate dark theme.",
+  "description": "A VS Code theme inspired by artisan chocolate and toasted nuts",
   "publisher": "wicked-labs",
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
     "color": "#211d20",
     "theme": "dark"
   },
-  "version": "0.0.6",
+  "version": "0.0.9",
   "engines": {
     "vscode": "^1.81.0"
   },
@@ -26,9 +26,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Cocoa Butter",
+        "label": "Almond Cream",
+        "uiTheme": "vs",
+        "path": "./themes/almond-cream.json"
+      },
+      {
+        "label": "Burnt Chestnut",
         "uiTheme": "vs-dark",
-        "path": "./themes/cocoa-butter.json"
+        "path": "./themes/burnt-chestnut.json"
       }
     ]
   }

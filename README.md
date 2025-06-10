@@ -1,12 +1,30 @@
 # Cocoa Butter Theme for VS Code.
-A colorfull, gentle and chocolate dark theme.
+
+### Official website
+
+See other interfaces at the official website.
+
+- [Serendipity](https://michaelandreuzza.com/vscode/cocoabutter/)
+
 # Installation
+
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
 2. Search for **`Cocoa Butter`** by Unwrapped
 3. Click **Install** to install it.
 4. Code > Preferences > Color Theme >
- **Cocoa Butter**
+   **Almond Cream - Burnt Chestnut**
+
+## Available Options
+
+- Almond Cream - Light
+- Burnt Chestnut - Dark
+#### Midnight
+![VS Code Marketplace](https://github.com/michael-andreuzza/cocoabutter/blob/master/images/almond-cream.png?raw=true)
+#### Sunset
+![VS Code Marketplace](https://github.com/michael-andreuzza/cocoabutter/blob/master/images/burnt-chestnut.png?raw=true)
+
 ## Personal Settings.
+
 ```js
 {
   "editor.fontFamily": "'Dank Mono', monospace",
@@ -22,10 +40,13 @@ A colorfull, gentle and chocolate dark theme.
   "editor.renderWhitespace": "all",
 }
 ```
+
 The theme uses italics for certain language tokens by default.
 To **disable** italics, add this snippet to your `settings.json`:
-  - quotes and *italic* strings (like in markdown) will be unaffected and still be italic
-  - if you want to exclude one of the themes from this change, simply remove its name (along with the brackets `[]`) at the top of the snippet
+
+- quotes and _italic_ strings (like in markdown) will be unaffected and still be italic
+- if you want to exclude one of the themes from this change, simply remove its name (along with the brackets `[]`) at the top of the snippet
+
 ```jsonc
 "editor.tokenColorCustomizations": {
   "[Cocoa Butter]": {
@@ -105,6 +126,7 @@ To **disable** italics, add this snippet to your `settings.json`:
   },
 },
 ```
+
 A side project by Michael Andreuzza and is crafted in Åland Islands, Finland.
-*Cocoa Butter* Theme created by [Micheal Andreuzza](https://github.com/michael-andreuzza) @ [Lexington Themes](https://lexingtonthemes.com/)
+_Cocoa Butter_ Theme created by [Micheal Andreuzza](https://github.com/michael-andreuzza) @ [Lexington Themes](https://lexingtonthemes.com/)
 [Twitter](https://twitter.com/Mike_Andreuzza)
