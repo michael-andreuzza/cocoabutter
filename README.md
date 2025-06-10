@@ -4,7 +4,7 @@
 
 See other interfaces at the official website.
 
-- [Serendipity](https://michaelandreuzza.com/vscode/cocoabutter/)
+- [Cocoa Butter](https://michaelandreuzza.com/vscode/cocoabutter/)
 
 # Installation
 
