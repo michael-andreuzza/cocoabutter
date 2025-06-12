@@ -16,7 +16,7 @@
     "color": "#211d20",
     "theme": "dark"
   },
-  "version": "0.0.9",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.81.0"
   },
@@ -26,14 +26,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Almond Cream",
+        "label": "Cocoa Almond Cream",
         "uiTheme": "vs",
-        "path": "./themes/almond-cream.json"
+        "path": "./themes/cocoa-almond-cream.json"
       },
       {
-        "label": "Burnt Chestnut",
+        "label": "Cocoa Burnt Chestnut",
         "uiTheme": "vs-dark",
-        "path": "./themes/burnt-chestnut.json"
+        "path": "./themes/cocoa-burnt-chestnut.json"
       }
     ]
   }

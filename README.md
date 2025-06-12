@@ -1,3 +1,4 @@
+![Cover](https://github.com/michael-andreuzza/cocoabutter/blob/master/cover.png?raw=true)
 # Cocoa Butter Theme for VS Code.
 
 ### Official website
@@ -9,20 +10,20 @@ See other interfaces at the official website.
 # Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for **`Cocoa Butter`** by Unwrapped
+2. Search for **`Cocoa Butter`** by Michael Andreuzza
 3. Click **Install** to install it.
 4. Code > Preferences > Color Theme >
-   **Almond Cream - Burnt Chestnut**
+   **Cocoa Almond Cream - Cocoa Burnt Chestnut**
 
 ## Available Options
 
-- Almond Cream - Light
-- Burnt Chestnut - Dark
+- Cocoa Almond Cream - Light
+- Cocoa Burnt Chestnut - Dark
 #### Almond Cream
-![VS Code Marketplace](https://github.com/michael-andreuzza/cocoabutter/blob/main/images/almond-cream.png?raw=true)
+![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/cocoabutter/refs/heads/main/images/almond-cream.png)
 
 #### Burnt Chestnut
-![VS Code Marketplace](https://github.com/michael-andreuzza/cocoabutter/blob/main/images/burnt-chestnut.png?raw=true)
+![VS Code Marketplace](https://raw.githubusercontent.com/michael-andreuzza/cocoabutter/refs/heads/main/images/burnt-chestnut.png)
 
 ## Personal Settings.
 
